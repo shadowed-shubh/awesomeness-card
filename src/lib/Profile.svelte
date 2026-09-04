@@ -34,7 +34,7 @@
   <div class="graph">
   </div>
 </div>
-<img class="disc" src="/cd.png" alt="" />
+<img class="disc" src="cd.png" alt="" />
 {:else}
   <p>No card found for "{params.id}"</p>
 {/if}
